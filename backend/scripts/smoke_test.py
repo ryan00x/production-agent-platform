@@ -1,6 +1,6 @@
 """
 Quick API smoke test:
-- Login as yad4o (admin)
+- Login as ryan00x (admin)
 - Check /api/v1/logs → should return entries now
 - Check /api/v1/tasks → should return task list
 - Check /api/v1/tasks/{id} → should return steps

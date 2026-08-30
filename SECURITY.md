@@ -25,7 +25,7 @@ Instead, report it privately using one of these methods:
    click "Report a vulnerability." This opens a private advisory visible
    only to maintainers.
 2. If that's unavailable, contact the maintainer directly via the email on
-   the [GitHub profile](https://github.com/Yad4o).
+   the [GitHub profile](https://github.com/ryan00x).
 
 When reporting, please include:
 

@@ -7,7 +7,7 @@ import sqlite3
 conn = sqlite3.connect('map_dev.db')
 c = conn.cursor()
 
-# Promote yad4o to ADMIN
+# Promote ryan00x to ADMIN
 c.execute(
     "UPDATE users SET role = 'ADMIN' WHERE email = 'omyadao1706@gmail.com'"
 )
